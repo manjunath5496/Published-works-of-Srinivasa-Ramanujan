@@ -52,7 +52,7 @@
 					<span>Messenger of Mathematics, XLIV, 1915, 157 &#x2013; 160</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram14.pdf">New expressions for Riemann’s functions \(\xi(s)\) and \(\Xi(t)\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram14.pdf">New expressions for Riemann's functions .... </a><br />
 					<span>Quarterly Journal of Mathematics, XLVI, 1915, 253 &#x2013; 260</span>
 				</li>
 				<li>
@@ -72,11 +72,11 @@
 					<span>Transactions of the Cambridge Philosophical Society, XXII, No.9, 1916, 159 &#x2013; 184</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram19.pdf">A series for Euler’s constant \(\gamma\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram19.pdf">A series for Euler’s constant &gamma;</a><br />
 					<span>Messenger of Mathematics, XLVI, 1917, 73 &#x2013; 80</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram20.pdf">On the expression of a number in the form \(ax^2+by^2+cz^2+du^2\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram20.pdf">On the expression of a number in the form ax<sup>2</sup> + by<sup>2</sup> + cz<sup>2</sup> + du<sup>2</sup></a><br />
 					<span>Proceedings of the Cambridge Philosophical Society, XIX, 1917, 11 &#x2013; 21</span>
 				</li>
 				<li>
