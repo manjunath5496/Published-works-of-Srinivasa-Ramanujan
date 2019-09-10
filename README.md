@@ -52,7 +52,7 @@
 					<span>Messenger of Mathematics, XLIV, 1915, 157 &#x2013; 160</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram14.pdf">New expressions for Riemann's functions .... </a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram14.pdf">New expressions for Riemann's functions &xi;(s) and &Xi;(t) </a><br />
 					<span>Quarterly Journal of Mathematics, XLVI, 1915, 253 &#x2013; 260</span>
 				</li>
 				<li>
