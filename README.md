@@ -36,7 +36,7 @@
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 173 &#x2013; 175</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram10.pdf">On the product ....</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram10.pdf">On the product <img src="2.jpg"></a><br />
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 209 &#x2013; 211</span>
 				</li>
 				<li>
