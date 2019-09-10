@@ -120,12 +120,12 @@
 					<span>Mathematische Zeitschrift, IX, 1921, 147 &#x2013; 153</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram31.pdf">Une formule asymptotique pour le nombre des partitions de \(n\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram31.pdf">Une formule asymptotique pour le nombre des partitions de n</a><br />
 					<span>(written in collaboration with G. H. Hardy)</span><br />
 					<span>Comptes Rendus, 2 Jan. 1917</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram32.pdf">Proof that almost all numbers \(n\) are composed of about log log \(n\) prime factors</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram32.pdf">Proof that almost all numbers n are composed of about log log n prime factors</a><br />
 					<span>(written in collaboration with G. H. Hardy)</span><br />
 					<span>Proceedings of the London Mathematical Society, 2, XVI,1917,Records for 14 Dec. 1916</span>
 				</li>
@@ -140,7 +140,7 @@
 					<span>Proceedings of the London Mathematical Society, 2, XVI, 1917, 112 &#x2013; 132</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram35.pdf">The normal number of prime factors of a number \(n\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram35.pdf">The normal number of prime factors of a number n </a><br />
 					<span>(written in collaboration with G. H. Hardy)</span><br />
 					<span>Quarterly Journal of Mathematics, XLVIII, 1917, 76 &#x2013; 92</span>
 				</li>
