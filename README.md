@@ -72,7 +72,7 @@
 					<span>Transactions of the Cambridge Philosophical Society, XXII, No.9, 1916, 159 &#x2013; 184</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram19.pdf">A series for Euler’s constant &gamma;</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram19.pdf">A series for Euler's constant &gamma;</a><br />
 					<span>Messenger of Mathematics, XLVI, 1917, 73 &#x2013; 80</span>
 				</li>
 				<li>
@@ -96,7 +96,7 @@
 					<span>Journal of the Indian Mathematical Society, XI, 1919, 181 &#x2013; 182</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram25.pdf">Some properties of \(p(n)\), the number of partitions of \(n\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram25.pdf">Some properties of p(n), the number of partitions of n</a><br />
 					<span>Proceedings of the Cambridge Philosophical Society, XIX, 1919, 207 &#x2013; 210</span>
 				</li>
 				<li>
