@@ -20,7 +20,7 @@
 					<span>Journal of the Indian Mathematical Society, V, 1913, 132</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram06.pdf">Modular equations and approximations to &piv;</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram06.pdf">Modular equations and approximations to &pi;</a><br />
 					<span>Quarterly Journal of Mathematics, XLV, 1914, 350 &#x2013; 372</span>
 				</li>
 				<li>
