@@ -24,7 +24,7 @@
 					<span>Quarterly Journal of Mathematics, XLV, 1914, 350 &#x2013; 372</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram07.pdf">On the integral <img src="1.jpg"></a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram07.pdf">On the integral <img src="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/1.jpg"></a><br />
 					<span>Journal of the Indian Mathematical Society, VII,1915, 93 &#x2013; 96</span>
 				</li>
 				<li>
@@ -36,7 +36,7 @@
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 173 &#x2013; 175</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram10.pdf">On the product <img src="2.jpg"></a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram10.pdf">On the product <img src="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/2.jpg"></a><br />
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 209 &#x2013; 211</span>
 				</li>
 				<li>
