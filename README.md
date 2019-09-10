@@ -1,6 +1,6 @@
 <ol>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram01.pdf">Some properties of Bernoulli’s numbers</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram01.pdf">Some properties of Bernoulli's numbers</a><br />
 					<span>Journal of the Indian Mathematical Society, III, 1911, 219 &#x2013; 234</span>
 				</li>
 				<li>
@@ -24,7 +24,7 @@
 					<span>Quarterly Journal of Mathematics, XLV, 1914, 350 &#x2013; 372</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram07.pdf">On the integral \(\int\limits^x_0\frac{\tan^{-1}t}{t}\,dt\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram07.pdf">On the integral ...</a><br />
 					<span>Journal of the Indian Mathematical Society, VII,1915, 93 &#x2013; 96</span>
 				</li>
 				<li>
@@ -32,11 +32,11 @@
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 131 &#x2013; 133</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram09.pdf">On the sum of the square roots of the first \(n\) natural numbers</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram09.pdf">On the sum of the square roots of the first n natural numbers</a><br />
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 173 &#x2013; 175</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram10.pdf">On the product \(\prod^{n=\infty}_{n=0}\left[1+\left(\frac{x}{a+nd}\right)^3\right]\)</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram10.pdf">On the product ...</a><br />
 					<span>Journal of the Indian Mathematical Society, VII, 1915, 209 &#x2013; 211</span>
 				</li>
 				<li>
@@ -44,7 +44,7 @@
 					<span>Messenger of Mathematics, XLIV, 1915, 10 &#x2013; 18</span>
 				</li>
 				<li>
-					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram12.pdf">Some definite integrals connected with Gauss’s sums</a><br />
+					<a target="_blank" href="https://github.com/manjunath5496/Published-works-of-Srinivasa-Ramanujan/blob/master/ram12.pdf">Some definite integrals connected with Gauss's sums</a><br />
 					<span>Messenger of Mathematics, XLIV, 1915, 75 &#x2013; 85</span>
 				</li>
 				<li>
